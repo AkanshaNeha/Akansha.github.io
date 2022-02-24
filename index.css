@@ -1,0 +1,21 @@
+.main-class {
+  background-color: #eff4fd;
+  overflow-x: hidden;
+}
+.navbar {
+  background-color: #eff4fd;
+}
+.logo {
+  border-radius: 50%;
+}
+@media (max-width: 767px) {
+  label {
+    text-align: left;
+  }
+}
+
+@media (min-width: 768px) {
+  label {
+    text-align: center;
+  }
+}
