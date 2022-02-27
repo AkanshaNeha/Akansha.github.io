@@ -11,6 +11,16 @@
 .akanshaimage {
   margin-top: 10%;
 }
+.data1 p {
+  color: #555;
+  line-height: 22px;
+}
+span {
+  color: black;
+}
+.spanclass {
+  color: #e15d44;
+}
 .data1 a {
   background-color: #212121;
   padding: 10px 18px;
