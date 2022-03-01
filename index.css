@@ -5,11 +5,17 @@
 .navbar {
   background-color: #eff4fd;
 }
+
 .logo {
   border-radius: 50%;
 }
 .akanshaimage {
   margin-top: 10%;
+}
+.data1 {
+  margin-left: 8%;
+  margin-top: 15%;
+  position: relative;
 }
 .data1 p {
   color: #555;
@@ -36,11 +42,6 @@ span {
   margin: 0 auto;
   display: flex;
   justify-content: center;
-}
-.data1 {
-  margin-left: 8%;
-  margin-top: 15%;
-  position: relative;
 }
 
 .data1 h1 {
@@ -86,6 +87,22 @@ li {
 .year {
   color: #e15d44;
 }
+.card:hover {
+  transform: scale(1.1);
+}
+form {
+  max-width: 800px;
+}
+.work-projects {
+  display: inline-block;
+  margin-left: 15%;
+  transform: translateX(-15%);
+}
+.navbar-toggler {
+  color: #212121;
+  background: #212121;
+}
+
 @media (max-width: 767px) {
   label {
     text-align: left;
